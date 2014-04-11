@@ -1,0 +1,4 @@
+#!/bin/sh
+
+git clone https://github.com/stefanius/shellscripts.git ~/shellscripts
+chmod 775 ~/shellscripts -R
